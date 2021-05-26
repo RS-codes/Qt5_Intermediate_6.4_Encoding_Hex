@@ -1,0 +1,1 @@
+# Qt5_Intermediate_6.4_Encoding_Hex
